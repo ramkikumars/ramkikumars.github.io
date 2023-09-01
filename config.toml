@@ -1,4 +1,4 @@
-baseURL = "https://lightbi-hugo-theme.netlify.app/"
+baseURL = "https://ramkikumars.github.io"
 DefaultContentLanguage = "en"
 languageCode = "en-us"
 title = "Lightbi"
@@ -15,6 +15,7 @@ pygmentsCodefencesGuessSyntax = true
 enableRobotsTXT = true
 enableGitInfo = false
 Paginate = 6
+publishDir = "docs"
 
 [Params]
 mainSections = ["post","posts"]

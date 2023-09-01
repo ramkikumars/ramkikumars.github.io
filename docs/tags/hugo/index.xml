@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on ✨Ram&#39;s Log ✨</title>
+    <link>https://ramkikumars.github.io/tags/hugo/</link>
+    <description>Recent content in hugo on ✨Ram&#39;s Log ✨</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ramkikumars.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VR &amp; Haptic Gloves: Immersive Collaborative Assembly</title>
+      <link>https://ramkikumars.github.io/posts/2023/aug/multiplayer/</link>
+      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ramkikumars.github.io/posts/2023/aug/multiplayer/</guid>
+      <description>In an age defined by technological advancements, we present a project that converges virtual reality, haptic feedback, and collaborative techniques. Our collaborative scaffolding assembly application, set within a shared virtual reality environment, introduces a new chapter in the construction industry.
+Collaboration in the Virtual Realm: Imagine constructing complex scaffolding components alongside a partner, regardless of physical distance. Our project transforms this concept into reality. In a virtual reality environment, two users collaborate, each equipped with haptic gloves that offer a palpable sense of touch and interaction.</description>
+    </item>
+    
+  </channel>
+</rss>
