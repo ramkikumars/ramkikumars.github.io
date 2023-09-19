@@ -1,12 +1,12 @@
 ---
-title: "VR & Haptic Gloves: Immersive Collaborative Assembly"
+title: "-"
 date: 2023-08-30
 tags: ["hugo","blog"]
 # image : "/img/posts/img-2.jpg"
 Description  : "It’s a fast and static website generator written in the Go language. Websites built with Hugo can be hosted anywhere from GitHub..."
 featured: true
 ---
-
+<!-- 
 <div style="text-align: justify"> In an age defined by technological advancements, we present a project that converges virtual reality, haptic feedback, and collaborative techniques. Our collaborative scaffolding assembly application, set within a shared virtual reality environment, introduces a new chapter in the construction industry. </div>
 
 In an age defined by technological advancements, we present a project that converges virtual reality, haptic feedback, and collaborative techniques. Our collaborative scaffolding assembly application, set within a shared virtual reality environment, introduces a new chapter in the construction industry.
@@ -34,4 +34,4 @@ To achieve this experience, we utilized the Unity Engine as the foundation. Inte
 
 In conclusion, our collaborative scaffolding assembly application represents a stride in technology. It underscores the importance of collaboration, innovation, and pushing boundaries. As industries progress, we stand at the forefront, driving advancement through each virtual interaction.
 
-<!--Photo by Robert Katzki on Unsplash-->
+Photo by Robert Katzki on Unsplash -->
