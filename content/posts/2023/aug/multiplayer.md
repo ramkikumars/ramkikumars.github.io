@@ -1,10 +1,10 @@
 ---
-title: "Trial"
+title: "Collaborative VR Scaffolding Assembly with Haptic Gloves"
 date: 2023-08-30
 tags: ["hugo","blog"]
-# image : "/img/posts/img-2.jpg"
-Description  : "FFFF"
-featured: true
+image : "/img/posts/snapshot.png"
+Description  : "In an age defined by technological advancements, we present a project that converges virtual reality, haptic feedback, and collaborative techniques..."
+# featured: true
 ---
 
 <div style="text-align: justify"> In an age defined by technological advancements, we present a project that converges virtual reality, haptic feedback, and collaborative techniques. Our collaborative scaffolding assembly application, set within a shared virtual reality environment, introduces a new chapter in the construction industry. </div>
@@ -14,7 +14,7 @@ In an age defined by technological advancements, we present a project that conve
 **Collaboration in the Virtual Realm:**
 Imagine constructing complex scaffolding components alongside a partner, regardless of physical distance. Our project transforms this concept into reality. In a virtual reality environment, two users collaborate, each equipped with haptic gloves that offer a palpable sense of touch and interaction. Together, they engage in the assembly of scaffolding components in real-time.
 
- ![Image alt](/img/posts/bird.gif)
+ <!-- ![Image alt](/img/posts/snapshot.png) -->
 **Effective Communication:**
 Communication lies at the core of successful collaboration. Our application not only visually connects users but also facilitates real-time voice communication. One user takes on the role of a guide, while the other executes assembly tasks. This amalgamation of voice communication adds a human dimension to the virtual environment, enriching the collaborative process.
 &nbsp;
