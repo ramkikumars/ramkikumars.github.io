@@ -1,5 +1,5 @@
 baseURL = "https://ramkikumars.github.io/"
 languageCode = 'en-us'
-title = "✨Ram's Log ✨"
+title = "✨Ram's Blog ✨"
 publishDir = "docs"
 
