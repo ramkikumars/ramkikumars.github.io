@@ -3,27 +3,27 @@ languageCode = 'en-us'
 title = "✨Ram's Log ✨"
 publishDir = "docs"
 
-[[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
+#[[menu.main]]
+#    name = "Home"
+#    url = "/"
+#    weight = 1
 
-[[menu.main]]
-    name = "Notes"
-    url = "/notes/"
-    weight = 2
+#[[menu.main]]
+#    name = "Notes"
+#    url = "/notes/"
+#    weight = 2
 
-[[menu.main]]
-    name = "Tags"
-    url = "/tags/blog/"
-    weight = 3
+#[[menu.main]]
+#    name = "Tags"
+#    url = "/tags/blog/"
+#    weight = 3
 
-[[menu.main]]
-    name = "Collections"
-    url = "/collections/"
-    weight = 4
+#[[menu.main]]
+#    name = "Collections"
+#    url = "/collections/"
+#    weight = 4
 
-[[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 5
+#[[menu.main]]
+#    name = "About"
+#    url = "/about/"
+#    weight = 5
